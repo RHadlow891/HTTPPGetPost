@@ -1,0 +1,7 @@
+C:\Users\rhadl\OneDrive\Documents\HTTPGetPost\HTTPGetPost\bin\Debug\HTTPGetPost.exe.config
+C:\Users\rhadl\OneDrive\Documents\HTTPGetPost\HTTPGetPost\bin\Debug\HTTPGetPost.exe
+C:\Users\rhadl\OneDrive\Documents\HTTPGetPost\HTTPGetPost\bin\Debug\HTTPGetPost.pdb
+C:\Users\rhadl\OneDrive\Documents\HTTPGetPost\HTTPGetPost\obj\Debug\HTTPGetPost.csprojResolveAssemblyReference.cache
+C:\Users\rhadl\OneDrive\Documents\HTTPGetPost\HTTPGetPost\obj\Debug\HTTPGetPost.csproj.CoreCompileInputs.cache
+C:\Users\rhadl\OneDrive\Documents\HTTPGetPost\HTTPGetPost\obj\Debug\HTTPGetPost.exe
+C:\Users\rhadl\OneDrive\Documents\HTTPGetPost\HTTPGetPost\obj\Debug\HTTPGetPost.pdb
